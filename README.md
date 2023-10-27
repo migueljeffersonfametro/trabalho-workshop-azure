@@ -14,4 +14,3 @@
 SLA - Service Level Agreement
   - SLA da solução
     - Multiplique o SLA de cada recurso/serviço
-
